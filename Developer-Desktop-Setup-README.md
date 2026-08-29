@@ -10,9 +10,6 @@ Purpose:
 - Database development
 - Software engineering workstation setup
 
-Last Updated:
-2026
-
 ---
 
 # 1. Hardware Recommendation
@@ -606,42 +603,3 @@ Windows 11 Pro
 ├── AWS CLI
 ├── Azure CLI
 ```
-
----
-
-# First Day Checklist
-
-[ ] Windows updates completed
-
-[ ] Install drivers
-
-[ ] Install Terminal
-
-[ ] Install PowerShell 7
-
-[ ] Install Git
-
-[ ] Install VS Code
-
-[ ] Install nvm-windows
-
-[ ] Install Node LTS
-
-[ ] Install JDK 17
-
-[ ] Install Android Studio
-
-[ ] Configure Android SDK
-
-[ ] Install Docker
-
-[ ] Install databases
-
-[ ] Configure GitHub SSH
-
-[ ] Clone projects
-
-[ ] Run test build
-
-
-END
